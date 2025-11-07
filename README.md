@@ -14,6 +14,11 @@
 - 主题与图标：next-themes、lucide-react
 - 质量与构建：ESLint（Next + TS）、PostCSS、Path Alias `@/* -> src/*`
 
+## 脚手架使用方法
+```shell
+npx create-next-app@latest --example https://github.com/xbhog/base-framework  xxxxx
+```
+
 ## 目录结构
 
 - `src/app`：Next.js App Router（`layout.tsx`、`page.tsx`、`globals.css`）
@@ -65,21 +70,6 @@ npm run lint   # ESLint（Next + TypeScript 规则）
 
 - ORM：Prisma；数据模型位于 `prisma/schema.prisma`。
 - 客户端避免直接访问数据库；通过 Server Actions 或 API Route 访问。
-
-## 测试（当前未内置测试框架）
-
-- 新增测试时，优先使用 Vitest + React Testing Library。
-- 测试文件放置于 `src/__tests__/` 或就近；命名 `*.test.ts[x]`；引入后建议 ≥80% 覆盖。
-
-## 提交与 PR
-
-- 使用 Conventional Commits（如 `feat:`、`fix:`、`chore:`）。
-- PR 前确保 `npm run lint`、`npm run build` 通过；PR 需包含说明、关联 Issue、UI 变更截图（如有）。
-
-## 环境与安全
-
-- 机密存放于 `.env.local`（已忽略）；客户端暴露仅使用 `NEXT_PUBLIC_*` 前缀。
-- 不编辑 `.next/` 生成物；不提交构建产物与私密数据。
 
 ## 交流与编码
 
