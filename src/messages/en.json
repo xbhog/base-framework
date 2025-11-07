@@ -1,0 +1,179 @@
+{
+  "Home": {
+    "title": "Welcome to the Base Framework",
+    "description": "Get started by editing the page"
+  },
+  "Metadata": {
+    "title": "Base Framework",
+    "description": "A modern Next.js framework"
+  },
+  "Auth": {
+    "sign_in_with_google": "Sign in with Google",
+    "signing_in": "Signing in...",
+    "sign_out": "Sign Out",
+    "signing_out": "Signing out...",
+    "loading": "Loading...",
+    "unknown_user": "Unknown User",
+    "user_avatar": "User Avatar",
+    "login_failed": "Login failed, please try again",
+    "logout_failed": "Logout failed, please try again",
+    "sign_out_confirm_title": "Confirm Sign Out",
+    "sign_out_confirm_message": "Are you sure you want to sign out? You will need to sign in again to access your account.",
+    "sign_out_tooltip": "Sign out from your account",
+    "cancel": "Cancel"
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "menu_label": "Dashboard",
+    "welcome": "Welcome back",
+    "not_logged_in": "Not Logged In",
+    "login_required": "You need to log in to access this page",
+    "back_to_home": "Back to Home",
+    "back_to_login": "Back to Home for Login",
+    "name": "Name",
+    "email": "Email Address",
+    "user_id": "User ID",
+    "not_set": "Not Set",
+    "session_info": "Session Information (Development Only)",
+    "home_tooltip": "Return to home page",
+    "user_info_title": "User Information",
+    "coming_soon_title": "More Features",
+    "coming_soon_desc": "We're working hard to bring you more useful features",
+    "coming_soon_subtitle": "Stay tuned",
+    "features_coming": "Coming Soon",
+    "feature_settings": "Account Settings",
+    "feature_notifications": "Notifications",
+    "feature_billing": "Billing",
+    "feature_security": "Security Center"
+  },
+  "brand": {
+    "name": "Base Framework",
+    "copyright": "All rights reserved."
+  },
+  "common": {
+    "language": {
+      "en": "English",
+      "zhCN": "中文"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "auth": {
+      "signIn": "Sign In",
+      "signOut": "Sign Out"
+    }
+  },
+  "legal": {
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "uploadAgree": "By uploading, you agree to our",
+    "and": "and"
+  },
+  "hero": {
+    "badge": "BETA",
+    "badgeInfo": "Learn more",
+    "title": "Build Your Next Project Faster",
+    "subtitle": "A modern Next.js framework with authentication, internationalization, and more",
+    "ctaText": "Try it today and see the difference!",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "View Example",
+    "terms": "By proceeding, you agree to our Terms and Privacy Policy",
+    "cta": {
+      "generate": "Get Started",
+      "example": "View Example"
+    },
+    "notice": {
+      "loggedIn": "You are logged in"
+    },
+    "tool": {
+      "badge": "Try it now",
+      "upload": "Upload Image",
+      "uploading": "Click or drag to upload an image",
+      "maxSize": "Max 8MB",
+      "clear": "Clear",
+      "promptPlaceholder": "Describe what you want to create...",
+      "promptAriaLabel": "Prompt input",
+      "examplePrompt": "Use Example",
+      "exampleText": "Create a professional logo with modern design",
+      "generateNow": "Generate Now",
+      "processing": "Processing in queue, please wait...",
+      "loginRequired": "Please sign in to use this feature",
+      "previewAlt": "Uploaded image preview"
+    }
+  },
+  "howto": {
+    "title": "How It Works",
+    "pageTitle": "How to Use Our Tool",
+    "pageDescription": "Follow these simple steps to process your images",
+    "backToHome": "Back to Home",
+    "steps": {
+      "upload": {
+        "title": "Upload Your Image",
+        "desc": "Choose or drag your image file to start"
+      },
+      "canvas": {
+        "title": "Edit on Canvas",
+        "desc": "Use our intuitive tools to customize your image"
+      },
+      "crop": {
+        "title": "Crop & Adjust",
+        "desc": "Fine-tune dimensions and composition"
+      },
+      "download": {
+        "title": "Download Result",
+        "desc": "Export your processed image in high quality"
+      }
+    }
+  },
+  "promo": {
+    "title": "Advanced Features",
+    "aiCropExtend": "AI-powered crop and extend",
+    "poweredByAi": "Powered by AI",
+    "animation": {
+      "title": "Create Animations",
+      "desc": "Create stunning animations with ease",
+      "demo": "Animation Demo",
+      "comingSoon": "Coming soon"
+    },
+    "aiCropExtendDesc": "Advanced AI capabilities for intelligent image processing"
+  },
+  "features": {
+    "title": "Features",
+    "items": {
+      "f1": {
+        "title": "Fast Development",
+        "desc": "Built with modern tools for rapid development"
+      },
+      "f2": {
+        "title": "Full Authentication",
+        "desc": "Complete authentication system with Google OAuth"
+      },
+      "f3": {
+        "title": "Internationalization",
+        "desc": "Multi-language support out of the box"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": {
+      "q1": {
+        "q": "What is Base Framework?",
+        "a": "Base Framework is a modern Next.js starter template with authentication, i18n, and best practices built-in."
+      },
+      "q2": {
+        "q": "How do I get started?",
+        "a": "Clone the repository, install dependencies with npm install, and run npm run dev to start the development server."
+      },
+      "q3": {
+        "q": "Is it free to use?",
+        "a": "Yes, Base Framework is open source and free to use for personal and commercial projects."
+      },
+      "q4": {
+        "q": "What technologies are included?",
+        "a": "Built with Next.js 15, TypeScript, Tailwind CSS v4, shadcn/ui, and Better Auth."
+      }
+    }
+  }
+}

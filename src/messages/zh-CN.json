@@ -1,0 +1,179 @@
+{
+  "Home": {
+    "title": "欢迎来到基础框架",
+    "description": "通过编辑页面开始"
+  },
+  "Metadata": {
+    "title": "基础框架",
+    "description": "现代化的 Next.js 框架"
+  },
+  "Auth": {
+    "sign_in_with_google": "使用 Google 登录",
+    "signing_in": "正在跳转...",
+    "sign_out": "退出登录",
+    "signing_out": "正在退出...",
+    "loading": "加载中...",
+    "unknown_user": "未知用户",
+    "user_avatar": "用户头像",
+    "login_failed": "登录失败，请重试",
+    "logout_failed": "登出失败，请重试",
+    "sign_out_confirm_title": "确认退出登录",
+    "sign_out_confirm_message": "您确定要退出登录吗？退出后需要重新登录才能访问您的账户。",
+    "sign_out_tooltip": "退出您的账户",
+    "cancel": "取消"
+  },
+  "Dashboard": {
+    "title": "个人中心",
+    "menu_label": "个人中心",
+    "welcome": "欢迎回来",
+    "not_logged_in": "未登录",
+    "login_required": "您需要登录才能访问此页面",
+    "back_to_home": "返回首页",
+    "back_to_login": "返回首页登录",
+    "name": "姓名",
+    "email": "邮箱地址",
+    "user_id": "用户 ID",
+    "not_set": "未设置",
+    "session_info": "会话信息（仅开发环境显示）",
+    "home_tooltip": "返回首页",
+    "user_info_title": "基本信息",
+    "coming_soon_title": "更多功能",
+    "coming_soon_desc": "我们正在努力开发更多实用功能",
+    "coming_soon_subtitle": "敬请期待",
+    "features_coming": "即将上线的功能",
+    "feature_settings": "账户设置",
+    "feature_notifications": "消息通知",
+    "feature_billing": "账单管理",
+    "feature_security": "安全中心"
+  },
+  "brand": {
+    "name": "基础框架",
+    "copyright": "保留所有权利。"
+  },
+  "common": {
+    "language": {
+      "en": "English",
+      "zhCN": "中文"
+    },
+    "theme": {
+      "light": "明亮",
+      "dark": "暗黑"
+    },
+    "auth": {
+      "signIn": "登录",
+      "signOut": "退出"
+    }
+  },
+  "legal": {
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "uploadAgree": "上传即表示您同意我们的",
+    "and": "和"
+  },
+  "hero": {
+    "badge": "BETA",
+    "badgeInfo": "了解更多",
+    "title": "更快构建您的下一个项目",
+    "subtitle": "一个现代化的 Next.js 框架,内置认证、国际化等功能",
+    "ctaText": "立即尝试，感受不同之处！",
+    "ctaPrimary": "开始使用",
+    "ctaSecondary": "查看示例",
+    "terms": "继续即表示您同意我们的服务条款和隐私政策",
+    "cta": {
+      "generate": "开始使用",
+      "example": "查看示例"
+    },
+    "notice": {
+      "loggedIn": "您已登录"
+    },
+    "tool": {
+      "badge": "立即尝试",
+      "upload": "上传图片",
+      "uploading": "点击或拖拽上传图片",
+      "maxSize": "最大 8MB",
+      "clear": "清除",
+      "promptPlaceholder": "描述您想创建的内容...",
+      "promptAriaLabel": "Prompt 输入",
+      "examplePrompt": "使用示例",
+      "exampleText": "创建一个具有现代设计感的专业 Logo",
+      "generateNow": "立即生成",
+      "processing": "正在处理队列中，请稍候...",
+      "loginRequired": "请先登录以使用此功能",
+      "previewAlt": "上传图片预览"
+    }
+  },
+  "howto": {
+    "title": "使用流程",
+    "pageTitle": "使用指南",
+    "pageDescription": "按照以下简单步骤处理您的图片",
+    "backToHome": "返回首页",
+    "steps": {
+      "upload": {
+        "title": "上传图片",
+        "desc": "选择或拖拽您的图片文件开始"
+      },
+      "canvas": {
+        "title": "画布编辑",
+        "desc": "使用直观的工具自定义您的图片"
+      },
+      "crop": {
+        "title": "裁剪调整",
+        "desc": "精细调整尺寸和构图"
+      },
+      "download": {
+        "title": "下载结果",
+        "desc": "导出高质量的处理结果"
+      }
+    }
+  },
+  "promo": {
+    "title": "高级功能",
+    "aiCropExtend": "AI 智能裁剪与扩展",
+    "poweredByAi": "由 AI 驱动",
+    "animation": {
+      "title": "创建动画",
+      "desc": "轻松创建令人惊艳的动画",
+      "demo": "动画演示",
+      "comingSoon": "即将推出"
+    },
+    "aiCropExtendDesc": "先进的 AI 能力，支持智能图像处理"
+  },
+  "features": {
+    "title": "功能特性",
+    "items": {
+      "f1": {
+        "title": "快速开发",
+        "desc": "使用现代化工具构建，助力快速开发"
+      },
+      "f2": {
+        "title": "完整认证",
+        "desc": "内置完整的认证系统，支持 Google OAuth"
+      },
+      "f3": {
+        "title": "国际化支持",
+        "desc": "开箱即用的多语言支持"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": {
+      "q1": {
+        "q": "什么是 Base Framework？",
+        "a": "Base Framework 是一个现代化的 Next.js 启动模板，内置认证、国际化和最佳实践。"
+      },
+      "q2": {
+        "q": "如何开始使用？",
+        "a": "克隆仓库，使用 npm install 安装依赖，然后运行 npm run dev 启动开发服务器。"
+      },
+      "q3": {
+        "q": "是否免费使用？",
+        "a": "是的，Base Framework 是开源的，可免费用于个人和商业项目。"
+      },
+      "q4": {
+        "q": "包含哪些技术栈？",
+        "a": "基于 Next.js 15、TypeScript、Tailwind CSS v4、shadcn/ui 和 Better Auth 构建。"
+      }
+    }
+  }
+}

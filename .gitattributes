@@ -1,0 +1,14 @@
+# Ensure text normalization and consistent newlines
+* text=auto eol=lf
+
+# Working tree encoding to avoid garbled characters on Windows
+* working-tree-encoding=UTF-8
+
+# Mark common binary assets
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
