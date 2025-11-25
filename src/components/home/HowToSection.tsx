@@ -44,14 +44,6 @@ export default function HowToSection({ className }: HowToSectionProps) {
           </Reveal>
         ))}
       </div>
-      {/* 次级 CTA：跳转到详细页 */}
-      {/*<div className="flex justify-center">
-        <Button variant="outline" asChild>
-          <Link href="/how-to">
-            {tHero('ctaSecondary')}
-          </Link>
-        </Button>
-      </div>*/}
     </section>
   );
 }
