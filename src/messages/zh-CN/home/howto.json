@@ -1,0 +1,24 @@
+{
+  "title": "使用流程",
+  "pageTitle": "使用指南",
+  "pageDescription": "按照以下简单步骤处理您的图片",
+  "backToHome": "返回首页",
+  "steps": {
+    "upload": {
+      "title": "上传图片",
+      "desc": "选择或拖拽您的图片文件开始"
+    },
+    "canvas": {
+      "title": "画布编辑",
+      "desc": "使用直观的工具自定义您的图片"
+    },
+    "crop": {
+      "title": "裁剪调整",
+      "desc": "精细调整尺寸和构图"
+    },
+    "download": {
+      "title": "下载结果",
+      "desc": "导出高质量的处理结果"
+    }
+  }
+}

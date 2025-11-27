@@ -16,7 +16,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>
 }): Promise<Metadata> {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: 'Metadata' });
+  const t = await getTranslations({ locale, namespace: 'metadata' });
 
   // 设置 metadataBase，确保所有链接输出为绝对 URL
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL;

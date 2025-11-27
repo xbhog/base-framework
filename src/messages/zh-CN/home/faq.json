@@ -1,0 +1,21 @@
+{
+  "title": "常见问题",
+  "items": {
+    "q1": {
+      "q": "什么是 Base Framework？",
+      "a": "Base Framework 是一个现代化的 Next.js 启动模板，内置认证、国际化和最佳实践。"
+    },
+    "q2": {
+      "q": "如何开始使用？",
+      "a": "克隆仓库，使用 npm install 安装依赖，然后运行 npm run dev 启动开发服务器。"
+    },
+    "q3": {
+      "q": "是否免费使用？",
+      "a": "是的，Base Framework 是开源的，可免费用于个人和商业项目。"
+    },
+    "q4": {
+      "q": "包含哪些技术栈？",
+      "a": "基于 Next.js 15、TypeScript、Tailwind CSS v4、shadcn/ui 和 Better Auth 构建。"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "language": {
+    "en": "English",
+    "zhCN": "中文"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "navigation": {
+    "pricing": "Pricing"
+  }
+}

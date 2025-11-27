@@ -42,7 +42,7 @@ export default function HeroTool({
   isProcessing = false,
   className = '',
 }: HeroToolProps) {
-  const t = useTranslations('hero.tool');
+  const t = useTranslations('home.hero.tool');
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   // 处理文件选择

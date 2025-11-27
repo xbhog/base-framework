@@ -1,0 +1,17 @@
+{
+  "title": "Features",
+  "items": {
+    "f1": {
+      "title": "Fast Development",
+      "desc": "Built with modern tools for rapid development"
+    },
+    "f2": {
+      "title": "Full Authentication",
+      "desc": "Complete authentication system with Google OAuth"
+    },
+    "f3": {
+      "title": "Internationalization",
+      "desc": "Multi-language support out of the box"
+    }
+  }
+}

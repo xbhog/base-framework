@@ -1,0 +1,17 @@
+{
+  "language": {
+    "en": "English",
+    "zhCN": "中文"
+  },
+  "theme": {
+    "light": "明亮",
+    "dark": "暗黑"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signOut": "退出"
+  },
+  "navigation": {
+    "pricing": "定价"
+  }
+}

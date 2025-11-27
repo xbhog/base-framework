@@ -1,0 +1,32 @@
+{
+  "badge": "BETA",
+  "badgeInfo": "了解更多",
+  "title": "更快构建您的下一个项目",
+  "subtitle": "一个现代化的 Next.js 框架,内置认证、国际化等功能",
+  "ctaText": "立即尝试，感受不同之处！",
+  "ctaPrimary": "开始使用",
+  "ctaSecondary": "查看示例",
+  "terms": "继续即表示您同意我们的服务条款和隐私政策",
+  "cta": {
+    "generate": "开始使用",
+    "example": "查看示例"
+  },
+  "notice": {
+    "loggedIn": "您已登录"
+  },
+  "tool": {
+    "badge": "立即尝试",
+    "upload": "上传图片",
+    "uploading": "点击或拖拽上传图片",
+    "maxSize": "最大 8MB",
+    "clear": "清除",
+    "promptPlaceholder": "描述您想创建的内容...",
+    "promptAriaLabel": "Prompt 输入",
+    "examplePrompt": "使用示例",
+    "exampleText": "创建一个具有现代设计感的专业 Logo",
+    "generateNow": "立即生成",
+    "processing": "正在处理队列中，请稍候...",
+    "loginRequired": "请先登录以使用此功能",
+    "previewAlt": "上传图片预览"
+  }
+}

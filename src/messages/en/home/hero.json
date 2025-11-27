@@ -1,0 +1,32 @@
+{
+  "badge": "BETA",
+  "badgeInfo": "Learn more",
+  "title": "Build Your Next Project Faster",
+  "subtitle": "A modern Next.js framework with authentication, internationalization, and more",
+  "ctaText": "Try it today and see the difference!",
+  "ctaPrimary": "Get Started",
+  "ctaSecondary": "View Example",
+  "terms": "By proceeding, you agree to our Terms and Privacy Policy",
+  "cta": {
+    "generate": "Get Started",
+    "example": "View Example"
+  },
+  "notice": {
+    "loggedIn": "You are logged in"
+  },
+  "tool": {
+    "badge": "Try it now",
+    "upload": "Upload Image",
+    "uploading": "Click or drag to upload an image",
+    "maxSize": "Max 8MB",
+    "clear": "Clear",
+    "promptPlaceholder": "Describe what you want to create...",
+    "promptAriaLabel": "Prompt input",
+    "examplePrompt": "Use Example",
+    "exampleText": "Create a professional logo with modern design",
+    "generateNow": "Generate Now",
+    "processing": "Processing in queue, please wait...",
+    "loginRequired": "Please sign in to use this feature",
+    "previewAlt": "Uploaded image preview"
+  }
+}

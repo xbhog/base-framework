@@ -17,7 +17,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>
 }): Promise<Metadata> {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: 'Metadata' });
+  const t = await getTranslations({ locale, namespace: 'metadata' });
 
   // 生成首页的 canonical URL（指向当前语言版本）
   const canonical = generateCanonical('/', locale);
@@ -57,8 +57,8 @@ export default async function Home({
   setRequestLocale(locale);
 
   // 获取翻译用于 JSON-LD
-  const faqT = await getTranslations({ locale, namespace: 'faq' });
-  const metaT = await getTranslations({ locale, namespace: 'Metadata' });
+  const faqT = await getTranslations({ locale, namespace: 'home.faq' });
+  const metaT = await getTranslations({ locale, namespace: 'metadata' });
   const brandT = await getTranslations({ locale, namespace: 'brand' });
 
   // 生成网站 URL

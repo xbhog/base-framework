@@ -9,7 +9,7 @@ interface HowToSectionProps {
 }
 
 export default function HowToSection({ className }: HowToSectionProps) {
-  const t = useTranslations('howto');
+  const t = useTranslations('home.howto');
 
   const steps = ['upload', 'canvas', 'crop', 'download'] as const;
 

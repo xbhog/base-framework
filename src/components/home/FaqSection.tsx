@@ -14,7 +14,7 @@ interface FaqSectionProps {
 }
 
 export default function FaqSection({ className }: FaqSectionProps) {
-  const t = useTranslations('faq');
+  const t = useTranslations('home.faq');
 
   const faqs = ['q1', 'q2', 'q3', 'q4'] as const;
 

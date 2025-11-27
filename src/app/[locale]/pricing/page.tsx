@@ -15,7 +15,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>
 }): Promise<Metadata> {
   const { locale } = await params;
-  const tMetadata = await getTranslations({ locale, namespace: 'Metadata' });
+  const tMetadata = await getTranslations({ locale, namespace: 'metadata' });
   const tPricing = await getTranslations({ locale, namespace: 'pricing' });
 
   // 生成定价页面的 canonical URL（指向当前语言版本）

@@ -15,8 +15,8 @@ interface HeroSectionProps {
 }
 
 export default function HeroSection({ className }: HeroSectionProps) {
-  const t = useTranslations('hero');
-  const tTool = useTranslations('hero.tool');
+  const t = useTranslations('home.hero');
+  const tTool = useTranslations('home.hero.tool');
   const tLegal = useTranslations('legal');
   const router = useRouter();
   const { data: session, isPending } = useSession();

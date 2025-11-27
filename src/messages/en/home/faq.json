@@ -1,0 +1,21 @@
+{
+  "title": "Frequently Asked Questions",
+  "items": {
+    "q1": {
+      "q": "What is Base Framework?",
+      "a": "Base Framework is a modern Next.js starter template with authentication, i18n, and best practices built-in."
+    },
+    "q2": {
+      "q": "How do I get started?",
+      "a": "Clone the repository, install dependencies with npm install, and run npm run dev to start the development server."
+    },
+    "q3": {
+      "q": "Is it free to use?",
+      "a": "Yes, Base Framework is open source and free to use for personal and commercial projects."
+    },
+    "q4": {
+      "q": "What technologies are included?",
+      "a": "Built with Next.js 15, TypeScript, Tailwind CSS v4, shadcn/ui, and Better Auth."
+    }
+  }
+}

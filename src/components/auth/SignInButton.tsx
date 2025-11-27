@@ -38,7 +38,7 @@ export function SignInButton({
   children,
   className = '',
 }: SignInButtonProps) {
-  const t = useTranslations('Auth');
+  const t = useTranslations('auth.index');
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 

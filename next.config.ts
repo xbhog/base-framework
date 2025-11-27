@@ -18,6 +18,19 @@ const nextConfig: NextConfig = {
     // 减少并行工作进程数量以避免 EPIPE 错误
     webpackBuildWorker: false,
   },
+  // 禁用 webpack 持久缓存以避免缓存损坏问题
+  webpack: (config, { dev, isServer }) => {
+    if (dev) {
+      // 开发模式下禁用持久缓存
+      config.cache = false;
+    } else {
+      // 生产模式下使用内存缓存而不是磁盘缓存
+      config.cache = {
+        type: 'memory',
+      };
+    }
+    return config;
+  },
 };
 
 export default withNextIntl(nextConfig);

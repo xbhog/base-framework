@@ -22,7 +22,7 @@ interface HeaderProps {
  * 注意：此组件应放在全宽容器内，外层容器负责 padding 和最大宽度
  */
 export default function Header({ className }: HeaderProps) {
-  const t = useTranslations('common');
+  const t = useTranslations('common.index');
   
   return (
     <nav

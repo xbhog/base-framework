@@ -25,7 +25,7 @@ import { LogOut, User } from 'lucide-react';
 import Link from 'next/link';
 
 export function AuthSection() {
-  const t = useTranslations('Auth');
+  const t = useTranslations('auth.index');
   const tDashboard = useTranslations('Dashboard');
   const { data: session, isPending } = useSession();
 

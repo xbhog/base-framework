@@ -1,0 +1,15 @@
+{
+  "sign_in_with_google": "使用 Google 登录",
+  "signing_in": "正在跳转...",
+  "sign_out": "退出登录",
+  "signing_out": "正在退出...",
+  "loading": "加载中...",
+  "unknown_user": "未知用户",
+  "user_avatar": "用户头像",
+  "login_failed": "登录失败，请重试",
+  "logout_failed": "登出失败，请重试",
+  "sign_out_confirm_title": "确认退出登录",
+  "sign_out_confirm_message": "您确定要退出登录吗？退出后需要重新登录才能访问您的账户。",
+  "sign_out_tooltip": "退出您的账户",
+  "cancel": "取消"
+}

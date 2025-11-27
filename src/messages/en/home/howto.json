@@ -1,0 +1,24 @@
+{
+  "title": "How It Works",
+  "pageTitle": "How to Use Our Tool",
+  "pageDescription": "Follow these simple steps to process your images",
+  "backToHome": "Back to Home",
+  "steps": {
+    "upload": {
+      "title": "Upload Your Image",
+      "desc": "Choose or drag your image file to start"
+    },
+    "canvas": {
+      "title": "Edit on Canvas",
+      "desc": "Use our intuitive tools to customize your image"
+    },
+    "crop": {
+      "title": "Crop & Adjust",
+      "desc": "Fine-tune dimensions and composition"
+    },
+    "download": {
+      "title": "Download Result",
+      "desc": "Export your processed image in high quality"
+    }
+  }
+}
