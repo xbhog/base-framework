@@ -129,18 +129,6 @@
       }
     }
   },
-  "promo": {
-    "title": "高级功能",
-    "aiCropExtend": "AI 智能裁剪与扩展",
-    "poweredByAi": "由 AI 驱动",
-    "animation": {
-      "title": "创建动画",
-      "desc": "轻松创建令人惊艳的动画",
-      "demo": "动画演示",
-      "comingSoon": "即将推出"
-    },
-    "aiCropExtendDesc": "先进的 AI 能力，支持智能图像处理"
-  },
   "features": {
     "title": "功能特性",
     "items": {

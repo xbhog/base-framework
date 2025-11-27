@@ -129,18 +129,6 @@
       }
     }
   },
-  "promo": {
-    "title": "Advanced Features",
-    "aiCropExtend": "AI-powered crop and extend",
-    "poweredByAi": "Powered by AI",
-    "animation": {
-      "title": "Create Animations",
-      "desc": "Create stunning animations with ease",
-      "demo": "Animation Demo",
-      "comingSoon": "Coming soon"
-    },
-    "aiCropExtendDesc": "Advanced AI capabilities for intelligent image processing"
-  },
   "features": {
     "title": "Features",
     "items": {

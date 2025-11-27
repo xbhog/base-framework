@@ -5,7 +5,6 @@ import { generateAlternates, generateCanonical } from '@/i18n/path';
 import ScrollHeader from "@/components/home/ScrollHeader";
 import HeroSection from "@/components/home/HeroSection";
 import HowToSection from "@/components/home/HowToSection";
-import PromoSection from "@/components/home/PromoSection";
 import FaqSection from "@/components/home/FaqSection";
 import Footer from "@/components/home/Footer";
 
@@ -166,17 +165,15 @@ export default async function Home({
           </div>
         </section>
 
+        
+
+        
+
+
         {/* How-to 区：全宽 + 内容居中 */}
         <section className="w-full">
           <div className="container mx-auto px-6 sm:px-8 lg:px-10 py-16 sm:py-20 lg:py-24">
             <HowToSection />
-          </div>
-        </section>
-
-        {/* Promo 区：全宽背景 + 内容居中 */}
-        <section className="w-full bg-muted/30">
-          <div className="container mx-auto px-6 sm:px-8 lg:px-10 py-16 sm:py-20 lg:py-24">
-            <PromoSection />
           </div>
         </section>
 
